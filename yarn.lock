@@ -33690,7 +33690,6 @@ __metadata:
     "@automattic/wp-babel-makepot": "workspace:^"
     "@automattic/wpcom-template-parts": "workspace:^"
     "@automattic/zendesk-client": "workspace:^"
-    "@babel/core": "npm:^7.27.1"
     "@babel/eslint-parser": "npm:^7.27.1"
     "@babel/register": "npm:^7.27.1"
     "@babel/runtime": "npm:^7.27.1"
