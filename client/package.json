@@ -126,7 +126,7 @@
 		"@wordpress/viewport": "^6.48.0",
 		"@wordpress/warning": "^3.48.0",
 		"autosize": "^4.0.4",
-		"body-parser": "^1.20.3",
+		"body-parser": "^1.20.6",
 		"browser-filesaver": "^1.1.1",
 		"bunyan": "^1.8.15",
 		"chalk": "^4.1.2",
